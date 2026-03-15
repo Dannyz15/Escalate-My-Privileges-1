@@ -1,0 +1,13 @@
+netdiscover
+
+ifconfig
+
+nmap -sP 192.168.56.0/24
+
+nmap -sV -p- 192.168.56.104
+
+dirb http://192.168.56.104
+
+sudo -l
+
+sudo bash
