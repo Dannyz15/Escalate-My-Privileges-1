@@ -61,4 +61,3 @@ This final stage is necessary to clear tracks in the system logs.
 
 * **Review History:** The `history` command was used to view the list of executed commands.
 * **Clear Session Logs:** Running `history -c` cleared the command history for that session.
-* **Clear Bash History File:** The command `echo "" > .bash_history` was used to completely wipe the stored `.bash_history` file.
