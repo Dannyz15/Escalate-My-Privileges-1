@@ -7,8 +7,6 @@ Privilege Escalation lab task using Kali Linux for cybersecurity learning.
 * **Operating System:** CentOS Linux 7 (Core)
 * **Attacker IP:** 192.168.56.101
 
----
-
 ## Stage 1: Reconnaissance
 This stage involves gathering information about the target, such as IP addresses.
 
